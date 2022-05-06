@@ -14,4 +14,8 @@
 
 ## 2 SOLID design principles
 ### Single responsibility principle
-> every module, class or function in a computer program should have responsibility over a single part of that program's functionality, and it should encapsulate that part. All of that module, class or function's services should be narrowly aligned with that responsibility
+> Every module, class or function in a computer program should have responsibility over a single part of that program's functionality, and it should encapsulate that part. All of that module, class or function's services should be narrowly aligned with that responsibility
+### Open Close Principle
+> Software entities (classes, modules, methods, etc.) should be open for extension, but closed for modification.
+### Liskov Substitution Principle
+> Objects of a superclass shall be replaceable with objects of its subclasses without breaking the application. That requires the objects of your subclasses to behave in the same way as the objects of your superclass.
