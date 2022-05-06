@@ -12,6 +12,6 @@
 ### POLYMORPHISM
 - The ability of an object to take on many forms.
 
-## 2-SOLID-design-principles
-1 Single responsibility principle
+## 2 SOLID design principles
+### Single responsibility principle
 > every module, class or function in a computer program should have responsibility over a single part of that program's functionality, and it should encapsulate that part. All of that module, class or function's services should be narrowly aligned with that responsibility
