@@ -33,7 +33,7 @@ class Journal {
 	}
 }
 
-// Seperation of concerns
+// Separation of concerns
 class PersistenceManager {
 	preprocess(journal) {
 		return journal.toString();
