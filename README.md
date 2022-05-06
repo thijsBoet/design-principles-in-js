@@ -1,16 +1,16 @@
 # Design Patterns in JavaScript
-
+## 1 Object Oriented Programming
 ### ABSTRACTION
-- Hide the details of the implementation from the user of the class and only expose the functionality to the user of the class.
+> Hide the details of the implementation from the user of the class and only expose the functionality to the user of the class.
 
 ### ENCAPSULATION
-- The bundling of data, along with the methods that operate on that data, into a single unit. (classes)
+> The bundling of data, along with the methods that operate on that data, into a single unit. (classes)
 
 ### INHERITANCE
-- The procedure in which one class inherits the attributes and methods of another class.
+> The procedure in which one class inherits the attributes and methods of another class.
 
 ### POLYMORPHISM
-- The ability of an object to take on many forms.
+> The ability of an object to take on many forms.
 
 ## 2 SOLID design principles
 ### Single responsibility principle
