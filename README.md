@@ -19,3 +19,7 @@
 > Software entities (classes, modules, methods, etc.) should be open for extension, but closed for modification.
 ### Liskov Substitution Principle
 > Objects of a superclass shall be replaceable with objects of its subclasses without breaking the application. That requires the objects of your subclasses to behave in the same way as the objects of your superclass.
+### Interface Segregation Principle
+> A client should not be exposed to methods it doesn't need. Declaring methods in an interface that the client doesn't need pollutes the interface and leads to a “bulky” or “fat” interface.
+### Dependency Inversion Principle
+> High level modules should not depend on low level modules; both should depend on abstractions. Abstractions should not depend on details. Details should depend upon abstractions.
